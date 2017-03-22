@@ -1,0 +1,19 @@
+Package: shinyforms
+Title: Description
+Version: 0.0.0.9000
+Authors@R: person("Dean", "Attali", email = "daattali@gmail.com",
+    role = c("aut", "cre"))
+Description: TODO
+URL: https://github.com/daattali/shinyHelpers
+BugReports: https://github.com/daattali/shinyHelpers/issues
+Depends:
+    R (>= 3.1.0)
+Imports:
+    shiny (>= 0.14.0)
+Suggests:
+    knitr (>= 1.7),
+    rmarkdown
+Remotes:  rstudio/shiny
+License: MIT + file LICENSE
+LazyData: true
+VignetteBuilder: knitr
