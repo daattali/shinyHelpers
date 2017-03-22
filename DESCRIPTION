@@ -1,4 +1,4 @@
-Package: shinyforms
+Package: shinyHelpers
 Title: Description
 Version: 0.0.0.9000
 Authors@R: person("Dean", "Attali", email = "daattali@gmail.com",
